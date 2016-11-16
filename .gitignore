@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+/build/
+/nbproject/private/
+=======
 #java specific
 *.class
 
@@ -15,3 +19,4 @@ nbproject/
 *.jar
 *.war
 *.ear
+>>>>>>> branch 'master' of https://github.com/jvinetc/dynamicJasper.git
