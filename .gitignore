@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #java specific
 *.class
 
@@ -16,25 +15,3 @@ nbproject/
 *.jar
 *.war
 *.ear
-=======
-/build/
-/nbproject/private/
-=======
-#java specific
-*.class
-
-#netbeans ignore personal stuff
-nbproject/
-
-## generic files to ignore
-*~
-*.lock
-*.DS_Store
-*.swp
-*.out
-
-# Package Files #
-*.jar
-*.war
-*.ear
->>>>>>> branch 'master' of https://github.com/jvinetc/dynamicJasper.git
